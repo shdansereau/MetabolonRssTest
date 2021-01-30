@@ -1,9 +1,7 @@
 ﻿using RSS_Feed.Models;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.ServiceModel.Syndication;
-using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
 
@@ -31,8 +29,6 @@ namespace RSS_Feed.Services
                     reader.Close();
                     foreach (SyndicationItem item in feed.Items)
                     {
-                        String subject = item.Title.Text;
-
                         DateTimeOffset PublishedDate = item.PublishDate;
 
                         int inactiveDays = (DateTime.Now - PublishedDate).Days;
@@ -40,8 +36,10 @@ namespace RSS_Feed.Services
                         {
                             InactiveFeed inactiveFeed = new InactiveFeed()
                             {
+                                // I only chose these two properties for display purposes
                                 Company = rssFeed.Key,
                                 FeedTitle = item.Title.Text,
+
                                 DaysInactive = inactiveDays
                             };
                             inactiveFeeds.Add(inactiveFeed);

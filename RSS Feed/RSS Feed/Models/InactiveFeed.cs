@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel;
 
 namespace RSS_Feed.Models
 {
@@ -12,7 +8,17 @@ namespace RSS_Feed.Models
     public class InactiveFeed
     {
         public string Company { get; set; }
+
+        [DisplayName("Feed Title")]
         public string FeedTitle { get; set; }
+
+        [DisplayName("Days Inactive")]
         public int DaysInactive { get; set; }
+
+        // Just incase it is needed to display on a combobox or something
+        public override string ToString()
+        {
+            return FeedTitle;
+        }
     }
 }
