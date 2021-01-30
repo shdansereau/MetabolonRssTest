@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSS Feed", "RSS Feed\RSS Feed.csproj", "{A298C1E6-25CC-4DDD-9B00-432C7415DD5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A298C1E6-25CC-4DDD-9B00-432C7415DD5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A298C1E6-25CC-4DDD-9B00-432C7415DD5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A298C1E6-25CC-4DDD-9B00-432C7415DD5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A298C1E6-25CC-4DDD-9B00-432C7415DD5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02BCD0EA-FF2A-4AE8-BD59-DD4DE9DD9649}
+	EndGlobalSection
+EndGlobal
