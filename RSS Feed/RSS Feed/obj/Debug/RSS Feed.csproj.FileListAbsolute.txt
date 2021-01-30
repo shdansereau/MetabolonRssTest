@@ -1,0 +1,10 @@
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS Feed\obj\Debug\RSS Feed.csprojAssemblyReference.cache
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS Feed\obj\Debug\RSS_Feed.FrmMain.resources
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS Feed\obj\Debug\RSS_Feed.Properties.Resources.resources
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS Feed\obj\Debug\RSS Feed.csproj.GenerateResource.cache
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS Feed\obj\Debug\RSS Feed.csproj.CoreCompileInputs.cache
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS Feed\bin\Debug\RSS Feed.exe.config
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS Feed\bin\Debug\RSS Feed.exe
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS Feed\bin\Debug\RSS Feed.pdb
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS Feed\obj\Debug\RSS Feed.exe
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS Feed\obj\Debug\RSS Feed.pdb

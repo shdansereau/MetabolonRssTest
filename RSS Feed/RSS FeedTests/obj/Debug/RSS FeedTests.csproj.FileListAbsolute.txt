@@ -1,0 +1,25 @@
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\obj\Debug\RSS FeedTests.csprojAssemblyReference.cache
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\obj\Debug\RSS FeedTests.csproj.CoreCompileInputs.cache
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\bin\Debug\RSS FeedTests.dll
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\bin\Debug\RSS FeedTests.pdb
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\bin\Debug\Castle.Core.dll
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\bin\Debug\Moq.dll
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\bin\Debug\RSS Feed.exe
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\bin\Debug\RSS Feed.pdb
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\bin\Debug\RSS Feed.exe.config
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\bin\Debug\Castle.Core.xml
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\bin\Debug\Moq.xml
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\obj\Debug\RSS FeedTests.csproj.CopyComplete
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\obj\Debug\RSS FeedTests.dll
+C:\GitHub\MetabolonRssTest\RSS Feed\RSS FeedTests\obj\Debug\RSS FeedTests.pdb

@@ -11,6 +11,8 @@ namespace RSS_Feed.Models
     /// </summary>
     public class InactiveFeed
     {
-
+        public string Company { get; set; }
+        public string FeedTitle { get; set; }
+        public int DaysInactive { get; set; }
     }
 }
