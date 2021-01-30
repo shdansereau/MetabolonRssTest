@@ -22,5 +22,13 @@ namespace RSS_Feed
             // I always like to center my forms
             CenterToScreen();
         }
+
+        private void btnGetInactiveFeeds_Click(object sender, EventArgs e)
+        {
+
+        }
+
+
+
     }
 }
